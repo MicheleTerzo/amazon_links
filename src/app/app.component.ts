@@ -53,6 +53,11 @@ export class AppComponent {
       title: 'Acer Nitro VG270UPbmiipfx Monitor Gaming PC 27"',
       link: 'https://amzn.to/3KP1ZCj',
       imgLink: 'https://m.media-amazon.com/images/I/61FLsIpgSSS._AC_SL1400_.jpg'
+    },
+    {
+      title: 'Corsair iCUE 465X RGB Vetro Temprato Smart Case Mid-Tower ATX',
+      link: 'https://amzn.to/3KC8aJN',
+      imgLink: 'https://m.media-amazon.com/images/I/715+B5-bHUL._AC_SL1500_.jpg'
     }
   ]
 }
