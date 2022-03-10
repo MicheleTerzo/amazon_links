@@ -43,6 +43,17 @@ export class AppComponent {
       link: 'https://amzn.to/3H5zQof',
       imgLink: 'https://m.media-amazon.com/images/I/818a--kMzkL._AC_SL1500_.jpg'
     },
+    {
+      title: 'MSI Optix G272 Monitor Gaming 27"',
+      link:'https://amzn.to/3tJTfGy',
+      imgLink: 'https://m.media-amazon.com/images/I/81Qhj-bFWqL._AC_SL1500_.jpg'
+    },
+    {
+
+      title: 'Acer Nitro VG270UPbmiipfx Monitor Gaming PC 27"',
+      link: 'https://amzn.to/3KP1ZCj',
+      imgLink: 'https://m.media-amazon.com/images/I/61FLsIpgSSS._AC_SL1400_.jpg'
+    }
   ]
 }
 
