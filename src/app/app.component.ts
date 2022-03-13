@@ -57,9 +57,9 @@ export class AppComponent {
       imgLink: 'https://m.media-amazon.com/images/I/515htF899jS._AC_SL1000_.jpg'
     },
     {
-      title: 'Corsair 4000D Airflow Case ATX Mid-Tower con Vetro Temperato, Due 120 mm Ventole Incluse, Bianco ',
-      link: 'https://amzn.to/3MMV2mU',
-      imgLink: 'https://m.media-amazon.com/images/I/81PvDkG1wzL._AC_SL1500_.jpg'
+      title: 'Corsair 4000D Airflow Case ATX Mid-Tower con Vetro Temperato, Due 120 mm Ventole Incluse, Nero ',
+      link: 'https://amzn.to/3vZOI5p',
+      imgLink: 'https://m.media-amazon.com/images/I/818a--kMzkL._AC_SL1500_.jpg'
     },
     {
       title: "Corsair iCUE SP120 RGB ELITE Kit da tre ventole PWM Performance da 120 mm con iCUE Lighting Node CORE",
